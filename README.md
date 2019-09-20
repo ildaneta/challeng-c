@@ -16,9 +16,19 @@ Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a pági
 
 ##### Os resultados visuais esperados são:
 
-+ ![Tela principal](https://raw.githubusercontent.com/ildasilva/challeng-c/master/src/assets/tela-busca.png)
+![Tela principal](https://raw.githubusercontent.com/ildasilva/challeng-c/master/src/assets/tela-busca.png)
 
-+ ![Tela de descrição do filme](https://raw.githubusercontent.com/ildasilva/challeng-c/master/src/assets/tela-desc-filme.png)
+![Tela de descrição do filme](https://raw.githubusercontent.com/ildasilva/challeng-c/master/src/assets/tela-desc-filme.png)
+
+#### Tecnologias utilizadas
+
++ Axios
++ Babel
++ CSS3
++ HTML5
++ React
++ Styled Components
++ Webpack
 
 #### Autora:
 
