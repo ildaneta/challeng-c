@@ -2,7 +2,7 @@
 
 #### Sobre o projeto:
 
-Esse projeto é dedicado a construção de uma SPA onde o usuário terá um campo de busca para pesquisar por filmes que estão ou irão entrar em cartaz, como também filmes que já passaram.
+Esse projeto é dedicado a construção de uma SPA onde o usuário terá um campo de busca para pesquisar por filmes que estão ou irão entrar em cartaz, como também filmes que já foram exibidos.
 
 Será então apresentados cards de filmes relacionados ao nome do filme buscado.
 Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a página de descrição do filme, onde serão exibidos dados do filme, como quanto dinheiro foi gasto, a nota de valoração do filme, o áudio do filme entre outras informações.
