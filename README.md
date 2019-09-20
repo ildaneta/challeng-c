@@ -1,4 +1,4 @@
-# Movie Find
+# Movie Find :movie_camera: :clapper:
 
 #### Sobre o projeto:
 
@@ -9,10 +9,10 @@ Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a pági
 
 #### Seguem abaixo os passos para instalações requeridas:
 
-###### `yarn install`
+###### ```yarn install```
 
 + Para compilar o projeto:
-###### `yarn start`
+###### ```yarn start```
 
 ##### Os resultados visuais esperados são:
 
@@ -20,7 +20,7 @@ Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a pági
 
 ![Tela de descrição do filme](https://raw.githubusercontent.com/ildasilva/challeng-c/master/src/assets/tela-desc-filme.png)
 
-#### Tecnologias utilizadas
+#### Tecnologias utilizadas :woman_technologist:
 
 + Axios
 + Babel
