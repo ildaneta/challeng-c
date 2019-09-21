@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  width: 1250px;
+  width: 1180px;
   margin: 0 auto;
 `;
 
@@ -45,7 +45,7 @@ export const Img = styled.img`
 `;
 
 export const InfoComplementares = styled.div`
-  width: 880px;
+  width: 800px;
   padding: 30px 9px 30px 52px;
 `;
 
@@ -94,6 +94,7 @@ export const InfoTitulos = styled.section`
   margin-bottom: -3px;
   display: flex;
   justify-content: center;
+  width: 710px;
 
   div {
     display: flex;
@@ -124,7 +125,7 @@ export const Classificacoes = styled.div`
 export const TipoFilme = styled.div`
   display: flex;
   margin-top: -30px;
-  margin-left: 28px;
+  margin-left: 6px;
 `;
 
 export const Classif = styled.div`
@@ -166,4 +167,5 @@ export const VideoTrailler = styled.section`
   display: flex;
   justify-content: center;
   height: 600px;
+  margin-top: 35px;
 `;

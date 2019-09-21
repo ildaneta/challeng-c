@@ -24,12 +24,6 @@ button {
   outline: 0;
 }
 
-.content {
-  max-width: 1170px;
-  margin: 0;
-  padding: 0 30px;
-}
-
 header#main-header {
   height: 68px;
   background: #116193;

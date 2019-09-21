@@ -102,7 +102,7 @@ export default function Description() {
       <VideoTrailler>
       <div>
         <iframe
-          width="1250" height="555" src="https://www.youtube.com/embed/v7MGUNV8MxU"
+          width="1180" height="555" src="https://www.youtube.com/embed/v7MGUNV8MxU"
           frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
