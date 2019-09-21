@@ -22,7 +22,6 @@ Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a pági
 
 #### Tecnologias utilizadas :woman_technologist:
 
-+ Axios
 + Babel
 + CSS3
 + HTML5
