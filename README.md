@@ -31,4 +31,4 @@ Se o usuário clicar em um dos cards, ele deverá ser redirecionado para a pági
 
 #### Autora:
 
-+ [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
++ [Ilda Neta](https://www.linkedin.com/in/ildaneta)
